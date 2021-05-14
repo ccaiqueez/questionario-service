@@ -1,0 +1,8 @@
+{
+  "name": "questionario-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ccaiqueez/questionario-service.git",
+  "author": "Silvestre Caíque <32864617+ccaiqueez@users.noreply.github.com>",
+  "license": "MIT"
+}
