@@ -2,6 +2,9 @@
   "name": "questionario-service",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
   "repository": "https://github.com/ccaiqueez/questionario-service.git",
   "author": "Silvestre Caíque <32864617+ccaiqueez@users.noreply.github.com>",
   "license": "MIT",
